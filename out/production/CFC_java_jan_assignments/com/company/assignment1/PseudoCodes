@@ -1,0 +1,29 @@
+ Pseudo Codes for the different programs
+ 1. CFC campus leader credits
+
+Input the credits
+if credits are greater tha equal to 7500
+         print "Tera Leader"
+else if credits are greater and equal to 6000 and less than 7500
+         print "Gega Leader"
+else if credits are greater and equal to 4500 and less than 6000
+         print "Mega Leader"
+else
+         print "Rising Star"
+end if
+
+
+ 2. Simple Interest
+Input principalamount , rate , time
+calculate simple interst using formula SI = (P*R*T)/100
+print simple interest
+end
+
+ 3. GCD of two numbers
+Input the two numbers say num1 and num2
+Run a loop for num1 and num2 from 1 to max of num1 and num2
+Loop Start
+      Check that the number divides both (num1 and num2) numbers completely or not.
+      If divides completely store it in a variable.
+End Loop
+print variable in which it is stored.
